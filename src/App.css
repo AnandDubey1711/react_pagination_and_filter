@@ -1,0 +1,21 @@
+*{
+  background-color:rgb(230, 210, 168);
+}
+
+.heading{
+  text-align: center;
+  justify-content: center;
+  padding:14px;
+
+}
+
+.header{
+  font-size: 48px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: oblique;
+  text-transform: capitalize;
+}
+
+
+
+
